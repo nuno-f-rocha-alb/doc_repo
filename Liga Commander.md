@@ -4,7 +4,7 @@ Liga Commander
 1 ronda - 4 semanas
 1 semana - 2(ou 3) jogos(decidir)
 
-custo de participação - 2€(???) por week (2€ x (+/-)8jog x 4semanas x 4rondas = 256moneys)
+custo de participação - 2€(???) por week ou 32€ à cabeça (2€ x (+/-)8jog x 4semanas x 4rondas = 256moneys)
 
 Maximo de pontos por semana - 12 pontos
 
@@ -22,3 +22,4 @@ Premios:
 - premio da season - cavern of souls foil de lotr(1º lugar)
 - premio de ronda - talvez dar as 4 cartas que eu separei originalmente(sensei divining top, skull clamp, mycosynth latice e aether vial)(1º lugar)
 - premio de semana - promo pack foil(1º lugar)
+- premio de participação por semana - carta promo
