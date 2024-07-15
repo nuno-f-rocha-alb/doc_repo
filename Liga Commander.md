@@ -1,7 +1,9 @@
 Liga Commander
 
 1 season - 4 rondas
+
 1 ronda - 4 semanas
+
 1 semana - 2(ou 3) jogos(decidir)
 
 custo de participação - 2€(???) por week ou 32€ à cabeça (2€ x (+/-)8jog x 4semanas x 4rondas = 256moneys)
