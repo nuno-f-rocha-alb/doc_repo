@@ -8,6 +8,8 @@ Liga Commander
 
 custo de participação - 2€(???) por week ou 32€ à cabeça (2€ x (+/-)8jog x 4semanas x 4rondas = 256moneys)
 
+Os decks devem rondar a casa dos 200€(em low) no maximo.
+
 Maximo de pontos por semana - 14 pontos(depende do numero de jogos por semana, 10 pontos se apenas 2 jogos)
 
 pontos por jogos:
