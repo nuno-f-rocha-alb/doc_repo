@@ -14,10 +14,10 @@ Regras:
 - Em case de empate no final da Liga, os jogadores empatados deveram fazer um jogo de desempate ou, se assim entederem, deveram escolher a forma de desempate entre si
 
 pontos por jogos:
-- 4 pontos para primeiro
-- 3 pontos para segundo 
-- 2 pontos para terceiro 
-- 1 ponto para quarto 
+- 4 pontos para 1º Lugar
+- 3 pontos para 2º Lugar 
+- 2 pontos para 3º Lugar 
+- 1 ponto para 4º Lugar 
 
 pontos extras:
 - 1 ponto - participar numa ronda
