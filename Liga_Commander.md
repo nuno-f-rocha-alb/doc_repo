@@ -7,11 +7,11 @@ Liga Commander Ludik<br>
 Custo de participação por semana - 2€<br>
 
 Regras:
-- Os decks devem rondar a casa dos 200€(em low) no maximo.
+- Os decks devem ter no maximo 200€(em low)
 - Maximo de pontos obtidos por semana - 12 pontos
 - Em caso de empate num jogo, os pontos a atribuir aos jogadores empatados serão os mesmos e respetivos a posição empatada.
-- Em caso de empate no final da Semana e/ou Ronda, os jogadores empatados deveram escolher a forma de desempate entre si
-- Em case de empate no final da Liga, os jogadores empatados deveram fazer um jogo de desempate ou, se assim entederem, deveram escolher a forma de desempate entre si
+- Em caso de empate no final da Semana e/ou Ronda, os jogadores deveram fazer o desempate por lançamento da moeda.
+- Em case de empate no final da Liga, os jogadores empatados deveram fazer um jogo de desempate entre os jogadores empatados, caso queiram que mais alguem jogue, apenas seram contabilizados as posições dos jogadores empatados, desempatando consoante a sua posição neste jogo.
 
 Pontos por jogos:
 - 4 pontos para 1º Lugar
@@ -25,7 +25,7 @@ Pontos extras:
 
 Premios:
 - Premio da Liga:
-    - 1º Lugar - Cavern of Souls Foil de lotr
+    - 1º Lugar - Cavern of Souls Foil de lotr*
     - 2º Lugar - Sarkhan unbroken 2024 Lunar New Year Promo
     - 3º Lugar - Lotus Petal Promo
 - Premio de Ronda:
@@ -35,3 +35,5 @@ Premios:
     - 1º Lugar - Promo Pack 
 - Premio de Participação por Semana:
     - Carta Promo
+
+*Apenas se houver uma media de 8 jogadores por Ronda, no final da liga
