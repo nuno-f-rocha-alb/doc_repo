@@ -1,29 +1,37 @@
-Liga Commander
+Liga Commander Ludik<br>
 
-1 season - 4 rondas
+4 rondas<br>
+1 ronda - 4 semanas<br>
+1 semana - 3 jogos<br>
 
-1 ronda - 4 semanas
+Custo de participação por semana - 2€<br>
 
-1 semana - 2(ou 3) jogos(decidir)
-
-custo de participação - 2€(???) por week ou 32€ à cabeça (2€ x (+/-)8jog x 4semanas x 4rondas = 256moneys)
-
-Os decks devem rondar a casa dos 200€(em low) no maximo.
-
-Maximo de pontos por semana - 14 pontos(depende do numero de jogos por semana, 10 pontos se apenas 2 jogos)
+Regras:
+- Os decks devem rondar a casa dos 200€(em low) no maximo.
+- Maximo de pontos obtidos por semana - 12 pontos
+- Em caso de empate num jogo, os pontos a atribuir aos jogadores empatados serão os mesmos e respetivos a posição empatada.
+- Em caso de empate no final da Semana e/ou Ronda, os jogadores empatados deveram escolher a forma de desempate entre si
+- Em case de empate no final da Liga, os jogadores empatados deveram fazer um jogo de desempate ou, se assim entederem, deveram escolher a forma de desempate entre si
 
 pontos por jogos:
 - 4 pontos para primeiro
-- 3 pontos para segundo (/primeiro se 3 jogadores)
-- 2 pontos para terceiro (/segundo se 3 jogadores)
-- 1 ponto para quarto (/terceiro se 3 jogadores)
+- 3 pontos para segundo 
+- 2 pontos para terceiro 
+- 1 ponto para quarto 
 
 pontos extras:
 - 1 ponto - participar numa ronda
-- 3(ou 2?) pontos - trazer um novo jogador para a liga
+- 3 pontos - trazer um novo jogador para a liga
 
 Premios:
-- premio da season - cavern of souls foil de lotr(1º lugar)
-- premio de ronda - talvez dar as 4 cartas que eu separei originalmente(sensei divining top, skull clamp, mycosynth latice e aether vial)(1º lugar)
-- premio de semana - promo pack foil(1º lugar)
-- premio de participação por semana - carta promo
+- Premio da Liga:
+    - 1º Lugar - Cavern of Souls Foil de lotr
+    - 2º Lugar - Sarkhan unbroken 2024 Lunar New Year Promo
+    - 3º Lugar - Lotus Petal Promo
+- Premio de Ronda:
+    - 1º Lugar - Pick entre as seguintes(Limitada a 1 por Liga): Sensei Divining Top, Skull Clamp, Mycosynth Latice e Aether Vial
+    - 2º Lugar - Promo Pack Foil
+- Premio de Semana:
+    - 1º Lugar - Promo Pack 
+- Premio de Participação por Semana:
+    - Carta Promo
