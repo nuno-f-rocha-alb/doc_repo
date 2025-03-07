@@ -7,13 +7,15 @@ Liga Commander Ludik<br>
 Custo de participação por semana - 2€<br>
 
 Regras:
-- Os decks devem ter no maximo 200€(em low)
+- Os decks devem ter no maximo 150€(em low)
+- Não são permitidas proxies
+- Jogos só devem ser constituidos por jogadores que participem na liga
 - Tempo limite por jogo - 1h30
     - Se acabar o tempo o jogador atual acaba o turno
     - Se o jogador ativo não conseguir ganhar, todos os jogadores empatam e ganham 1 ponto cada
     - os jogadores devem controlar o tempo do seu jogo
 - Só seram ganhos pontos por objetivos feitos durante os jogos
-- Todas as semanas será tirado random 3 objetivos para os jogadores cumprirem
+- Todas as semanas seram sorteados 3-4 objetivos para os jogadores cumprirem
 - Existiram sempre 4 objetivos fixos durante toda a liga(apontados em baixo)
 - Uma vez por semana, os jogadores poderam apostar num dos objetivos random, antes do primeiro jogo(devem informar a loja desse objetivo), e se cumprirem o objetivo ganharam +3 pontos, se não o conseguirem cumprir, no fim dos 3 jogos perderão dos seus pontos totais os pontos do objetivo mais os 3 pontos extras
 - o Objetivo apostado só pode ser cumprido 1 vez por semana e uma vez cumprido, não pode voltar a ser feito nos restantes jogos
@@ -35,12 +37,11 @@ Pontos extras:
 
 Premios:
 - Premio da Liga:
-    - 1º Lugar - Carta a escolha do cardmarket(Dependente do valor acumulado em inscrições) ou store credit
-    - 2º Lugar - Carta a escolha do cardmarket(Dependente do valor acumulado em inscrições) ou store credit
-    - 3º Lugar - Carta a escolha do cardmarket(Dependente do valor acumulado em inscrições) ou store credit
+    - 1º Lugar - Store Credit (40%)
+    - 2º Lugar - Store Credit (35%)
+    - 3º Lugar - Store Credit (25%)
 - Premio de Ronda:
-    - 1º Lugar - Lotus Petal
-    - 2º Lugar - Promo Pack Foil
+    - 1º Lugar - Promo Pack Foil
 - Premio de Semana:
     - 1º Lugar - Promo Pack 
 - Premio de Participação por Ronda:
