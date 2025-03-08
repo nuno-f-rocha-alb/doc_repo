@@ -14,11 +14,13 @@ Regras:
     - Se acabar o tempo o jogador atual acaba o turno
     - Se o jogador ativo não conseguir ganhar, todos os jogadores empatam e ganham 1 ponto cada
     - os jogadores devem controlar o tempo do seu jogo
-- Só seram ganhos pontos por objetivos feitos durante os jogos
-- Todas as semanas seram sorteados 3-4 objetivos para os jogadores cumprirem
-- Existiram sempre 4 objetivos fixos durante toda a liga(apontados em baixo)
-- Uma vez por semana, os jogadores poderam apostar num dos objetivos random, antes do primeiro jogo(devem informar a loja desse objetivo), e se cumprirem o objetivo ganharam +3 pontos, se não o conseguirem cumprir, no fim dos 3 jogos perderão dos seus pontos totais os pontos do objetivo mais os 3 pontos extras
-- o Objetivo apostado só pode ser cumprido 1 vez por semana e uma vez cumprido, não pode voltar a ser feito nos restantes jogos
+- Só são ganhos pontos por objetivos feitos durante os jogos
+- Todas as semanas são sorteados 3 objetivos para os jogadores cumprirem
+- Existem sempre 4 objetivos fixos durante toda a liga (apontados em baixo)
+- Uma vez por semana, os jogadores poderão apostar num dos objetivos random, antes do primeiro jogo (devem informar a loja desse objetivo), e se cumprirem o objetivo ganham +5 pontos, se não o conseguirem cumprir, no fim dos 3 jogos perderão dos seus pontos totais 3 pontos.
+- O Objetivo apostado só pode ser cumprido 1 vez por semana e uma vez cumprido, não pode voltar a ser feito nos restantes jogos
+- Se não o jogador não apostar em nenhum dos objetivos, pode fazer os objetivos em todos os 3 jogos
+- Só podem fazer os objetivos uma vez por jogo
 - Dos 2€ de inscrição, 1€ será acumulado para premio da liga(1º 2º e 3º lugar - 40%-35%-25%)
 
 Pontos:
